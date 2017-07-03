@@ -1,4 +1,10 @@
 {
+<<<<<<< HEAD
   "version" : "0.9.0",
   "url" : "https://github.bus.zalan.do/smiral/zdt/releases/download/v0.9.0/ZDT.installer.dmg"
+=======
+  "version" : "0.1.1",
+  "url" : "https://github.bus.zalan.do/smiral/zdt/releases/download/v0.1.1/ZDT.installer.dmg",
+  "date" : "19.11.2016"
+>>>>>>> 1388c3558f7ffbef95bea651cd36898cbe1c72af
 }
